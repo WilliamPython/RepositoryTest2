@@ -1,1 +1,1 @@
-heelo ssh push way!
+hello ssh push way!
